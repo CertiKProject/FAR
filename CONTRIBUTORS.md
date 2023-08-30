@@ -2,8 +2,8 @@
 
 | Name        | Organization |
 | ----------- | -----------  |
-| Brian Lee      | CertiK        |
 | Jennifer Daniels   | CertiK         |
+| Brian Lee      | CertiK        |
 | Abby Li   | OKlink         |
 | Tiffany Li   | OKlink         |
 
