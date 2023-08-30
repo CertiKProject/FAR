@@ -1,4 +1,4 @@
-# 🧊💰 FAR (Freeze Asset Request) Standard
+# 🧊 FAR (Freeze Asset Request) Standard
 
 ## Overview
 
@@ -10,19 +10,31 @@ The [FAR Template](FAR_template.pdf) and the [FAR Example](FAR_example.pdf) incl
 
 ## 🤝 Partners
 
-<a href="https://www.oklink.com/">
-<picture height="40px">
-  <img src="https://github.com/CertiKProject/FAR/assets/87741207/d95fad8d-362d-4af2-b99b-ed07163e00f2" height="40px" alt="Oklink" />
-</picture>
-</a>
-
 <a href="https://www.certik.com/">
 <picture height="40px">
-  <img src="https://github.com/CertiKProject/FAR/assets/87741207/8c771fb6-7fb8-444b-aa47-9519e8658fd1" height="40px" alt="Certik" />
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/8c771fb6-7fb8-444b-aa47-9519e8658fd1" height="40px" alt="CertiK" />
 </picture>
 </a>
 
-## 💖 Contributors
+<a href="https://www.oklink.com/">
+<picture height="40px">
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/d95fad8d-362d-4af2-b99b-ed07163e00f2" height="40px" alt="OKLink" />
+</picture>
+</a>
+
+<a href="https://www.okx.com/">
+<picture height="40px">
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/04aa3559-f3fe-4307-ab5d-8b18f44d671f" height="40px" alt="OKX" />
+</picture>
+</a>
+
+<a href="https://www.kucoin.com/">
+<picture height="40px">
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/704bc156-9350-4135-87ff-e53418cd5d53" height="40px" alt="KuCoin" />
+</picture>
+</a>
+
+## 🙏 Contributors
 
 | Name        | Organization |
 | ----------- | -----------  |
