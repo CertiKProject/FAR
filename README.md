@@ -6,6 +6,8 @@ Documents in this repo describe and support a freeze-asset request (FAR) technic
 
 The [FAR Standard](FAR_standard.pdf) describes the content that should be included in every request so exchanges can quickly and easily validate and act upon the request.  We intend for this document to lead to a formal standard backed by major players in the web3 freeze-asseting process.  
 
+The [FAR Template](FAR_template.pdf) and the [FAR Example](FAR_example.pdf) includes a skeleton and example for applying FAR standard in practice.
+
 ## 🤝 Partners
 
 <a href="https://www.oklink.com/">
@@ -21,7 +23,6 @@ The [FAR Standard](FAR_standard.pdf) describes the content that should be includ
 </a>
 
 ## 💖 Contributors
-
 
 | Name        | Organization |
 | ----------- | -----------  |
