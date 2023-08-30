@@ -1,4 +1,4 @@
-# 🧊 FAR (Freeze Asset Request) Standard
+# ![FAR_Logo](https://github.com/CertiKProject/FAR/assets/87741207/54149ff5-775d-4d71-9655-f33ec20b9991) FAR (Freeze Asset Request) Standard
 
 ## Overview
 
@@ -8,7 +8,9 @@ The [FAR Standard](FAR_standard.pdf) describes the content that should be includ
 
 The [FAR Template](FAR_template.pdf) and the [FAR Example](FAR_example.pdf) includes a skeleton and example for applying FAR standard in practice.
 
-## 🤝 Partners
+## Partners
+
+
 
 <a href="https://www.certik.com/">
 <picture height="40px">
@@ -34,7 +36,7 @@ The [FAR Template](FAR_template.pdf) and the [FAR Example](FAR_example.pdf) incl
 </picture>
 </a>
 
-## 🙏 Contributors
+## Contributors
 
 | Name        | Organization |
 | ----------- | -----------  |
