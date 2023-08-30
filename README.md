@@ -10,23 +10,21 @@ The [FAR Template](FAR_template.pdf) and the [FAR Example](FAR_example.pdf) incl
 
 ## Partners
 
-
-
 <a href="https://www.certik.com/">
 <picture height="40px">
-  <img src="https://github.com/CertiKProject/FAR/assets/87741207/8c771fb6-7fb8-444b-aa47-9519e8658fd1" height="40px" alt="CertiK" />
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/8177ab8e-33c8-4aef-a378-6209dccd531d" height="40px" alt="CertiK" />
 </picture>
 </a>
 
 <a href="https://www.oklink.com/">
 <picture height="40px">
-  <img src="https://github.com/CertiKProject/FAR/assets/87741207/d95fad8d-362d-4af2-b99b-ed07163e00f2" height="40px" alt="OKLink" />
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/b2867835-91fa-4d4d-a730-698b68fd9dc0" height="40px" alt="OKLink" />
 </picture>
 </a>
 
 <a href="https://www.okx.com/">
 <picture height="40px">
-  <img src="https://github.com/CertiKProject/FAR/assets/87741207/04aa3559-f3fe-4307-ab5d-8b18f44d671f" height="40px" alt="OKX" />
+  <img src="https://github.com/CertiKProject/FAR/assets/87741207/dd3ef73a-0797-4180-be9b-f29b4b6ca04f" height="40px" alt="OKX" />
 </picture>
 </a>
 
